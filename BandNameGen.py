@@ -1,2 +1,2 @@
 print("This is a Band name generator")
-input("W")
+input("Name of Street you grew up in?")
